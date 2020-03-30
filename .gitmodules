@@ -1,0 +1,6 @@
+[submodule "todos"]
+	path = todos
+	url = https://github.com/meteor/todos
+[submodule "localmarket"]
+	path = localmarket
+	url = https://github.com/meteor/localmarket
